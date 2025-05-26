@@ -3,4 +3,4 @@
 - Increasing number of datasets by augmentation, rotating image
 - Fine tuning VGG16 as model for learning, design method to test the model
 
-
+[View the presentation (PDF)](./ceramic_quality_inspector.pdf)
